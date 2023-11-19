@@ -1,0 +1,54 @@
+Version: 1.9
+Modification icon.
+Modification About Form.
+Modification setting Form.
+Modification and moving of selection server version and Memory option.
+Adding showing MEMORY option.
+
+
+Version : 1.8
+Changing of server config form.
+Modification Server.Properties.
+Adding About form.
+
+Version : 1.7
+Information install JAVA before launching this software.
+Complete icon to all form.
+Correction with cpu usage for all windows.
+Adding many alerts messages.
+
+Version : 1.6
+Adding SplashScreen.
+Adding LOGO.
+Adding editing server.properties.
+
+Version : 1.5
+Optimization Software.
+Adding choose allocated memory option for the server.
+
+Version : 1.4
+Optimization memory cache.
+Optimization Software.
+Correction with the SETTING Form.
+Adding option "SHOW Processor"
+Adding to clipboard IP with a right click.
+
+Version : 1.3
+Patch problem with button and richtextbox.
+Patch problem with don't server closing program.
+Optimization program.
+theme change.
+
+Version : 1.2
+Added new components.
+Added easy update.
+Patch problem with the scrolling richtextbox.
+Patch problem with the color richtextbox.
+
+#1.1
+Added new components.
+Added version selection.
+Patch problem with the Form in busy.
+
+#1.0
+Basic.
